@@ -1,0 +1,4 @@
+Name: Debobrata
+Salary: 26000.000000
+Name: Shahid
+Salary: 0.000000
