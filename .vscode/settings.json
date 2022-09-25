@@ -2,6 +2,7 @@
   "files.associations": {
     "*.ejs": "html",
     "ostream": "cpp",
-    "cmath": "c"
+    "cmath": "c",
+    "tuple": "c"
   }
 }
