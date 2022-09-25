@@ -45,7 +45,6 @@ void deQueue(struct Queue* q)
   
     q->front = q->front->next;
   
-    // If front becomes NULL, then change rear also as NULL
     if (q->front == NULL)
         q->rear = NULL;
   
