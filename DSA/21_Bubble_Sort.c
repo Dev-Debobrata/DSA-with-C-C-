@@ -19,10 +19,10 @@ void Data_Insertion(int *array, int size)
 void Bubble_Sort(int *array, int size)
 {
     int temp;
-    for (int i = 0; i < (size - 1); i++)
+    for (int i = 0; i <= (size - 1); i++)
     {
         printf("Working on pass number %d\n", i+1);
-        for (int j = 0; j < (size - 1 - i); j++)
+        for (int j = 0; j <= (size - 1 - i); j++)
         {
             if (array[j] > array[j + 1])
             {
@@ -42,11 +42,11 @@ void Bubble_Sort_Adaptive(int *array, int size)
 {
     int temp;
     int isSorted = 0;
-    for (int i = 0; i < (size - 1); i++)
+    for (int i = 0; i <= (size - 1); i++)
     {
         printf("Working on pass number %d\n", i+1);
         isSorted = 1;
-        for (int j = 0; j < (size - 1 - i); j++)
+        for (int j = 0; j <= (size - 1 - i); j++)
         {
             if (array[j] > array[j + 1])
             {
