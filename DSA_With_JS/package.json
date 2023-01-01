@@ -1,0 +1,22 @@
+{
+  "name": "dsa_with_js",
+  "version": "1.0.0",
+  "description": "DSA implementation using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-Destructor/Data_Structure_And_Algorithm.git"
+  },
+  "author": "Debobrata Pal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dev-Destructor/Data_Structure_And_Algorithm/issues"
+  },
+  "homepage": "https://github.com/Dev-Destructor/Data_Structure_And_Algorithm#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
