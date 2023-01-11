@@ -1,8 +1,0 @@
-{
-  "files.associations": {
-    "*.ejs": "html",
-    "ostream": "cpp",
-    "cmath": "c",
-    "tuple": "c"
-  }
-}
