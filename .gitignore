@@ -1,2 +1,3 @@
-DSA_With_JS/package-lock.json
-DSA_With_JS/node_modules
+*/package-lock.json
+*/node_modules
+*.class
