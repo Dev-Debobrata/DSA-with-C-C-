@@ -1,8 +1,6 @@
-package DSA_With_Java.Problem_Solving;
-
 import java.util.Stack;
 
-public class ValidParenthesis {
+public class Valid_Parenthesis {
   public boolean isValid(String s) {
     Stack<Character> stack = new Stack<>();
     for (char c : s.toCharArray()) {

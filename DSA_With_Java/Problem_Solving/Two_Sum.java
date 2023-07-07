@@ -1,5 +1,3 @@
-package DSA_With_Java.Problem_Solving;
-
 import java.util.*;
 
 public class Two_Sum {

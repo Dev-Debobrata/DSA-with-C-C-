@@ -16,7 +16,8 @@ public class SetHash {
 
     it.next();
 
-    System.out.print(it.next());
+    System.out.println(set.contains(4));
+    System.out.println(it.next());
     System.out.print(set);
     System.out.println();
   }
