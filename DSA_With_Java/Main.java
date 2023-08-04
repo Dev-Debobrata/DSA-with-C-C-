@@ -1,14 +1,10 @@
 package DSA_With_Java;
 
-import DSA_With_Java.Algorithms.Sorting.HeapSort;
+import java.util.ArrayList;
 
 public class Main {
+
   public static void main(String[] args) {
-    int array[] = { 71, 2, 16, 98, 14, 18 };
-
-    HeapSort sorting = new HeapSort(array);
-
-    sorting.sort();
-    sorting.display();
+    int nums[] = { 2, 3, 5, 6, 7, 8, 3, 1, 0 };
   }
 }
